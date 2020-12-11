@@ -1,9 +1,9 @@
 # hello-world
 
-Hi,
+Hello World,
 
-This is a hello world example.
+I am psheens. Nice to meet you! :)
+
 Thanks.
 
-Some changes
-
+-psheens
